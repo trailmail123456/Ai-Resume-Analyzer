@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# AI Resume Analyzer
+
+AI-powered tool that analyzes resumes and provides feedback on content, skills, and ATS compatibility.
+
+## Features
+ Resume analysis using AI
+ Skill gap detection
+ Suggestions for improvement
+
+## Tech Stack
+(Add later: React, Node.js, etc.)
+>>>>>>> 42a4cfacef616fc6450b8e4164c13de4bd45948c
